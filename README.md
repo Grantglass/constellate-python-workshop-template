@@ -1,10 +1,7 @@
-# TAP Institute 2022 Lesson Template
+# TAP Institute 2022 Machine Learning Workshop
 
-This repository contains a teaching template for creating a workshop for the 2022 Text Analysis Pedagogy (TAP) Institute. The TAP Institute is using the [Constellate Platform](https://constellate.org) for teaching and learning. Constellate uses Binder to render Jupyter Notebooks in the user's browser.
+This repository contains materials for the 2022 Text Analysis Pedagogy (TAP) Institute in Machine Learning. The TAP Institute is using the [Constellate Platform](https://constellate.org) for teaching and learning. Constellate uses Binder to render Jupyter Notebooks in the user's browser.
 
-# Copying this template
-
-GitHub has [directions for copying a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make sure your resulting repository is "public".
 
 # Testing your lesson in Constellate
 
